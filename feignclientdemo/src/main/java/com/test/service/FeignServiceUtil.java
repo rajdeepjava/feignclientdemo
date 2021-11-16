@@ -13,5 +13,5 @@ public interface FeignServiceUtil {
 	@GetMapping("/status")
 	public String getStatus();
 	
-
+//
 }
